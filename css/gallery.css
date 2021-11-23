@@ -1,0 +1,16 @@
+
+
+.gallery{
+   margin: 5px 50px;
+  
+}
+.gallery img{
+   transition: all 1s ease-in-out;
+   padding: .5rem;
+   width: 268px;
+   height: 250px;
+}
+.gallery img:hover{
+   filter: none;
+   transform: scale(1.1);
+}
