@@ -1,0 +1,2 @@
+# Blogweb
+Simple static blogweb
